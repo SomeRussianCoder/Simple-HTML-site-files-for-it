@@ -1,0 +1,20 @@
+// This is just a file I am writing because
+// I am not currently on my PC so making
+// commits is annoying.
+
+// All the advice in this file are just recommendations
+// or ideas for future projects, completely optional
+
+You should separate code and resources
+keep content in a separate folder from code
+Makes it look cleaner.
+
+Write game code in pure JS/Javascript by
+using Javascript/HTML5 game libraries.
+
+You can also make the game using the Unity
+Game Engine and code it in C# or Javascript
+And compile the game as an HTML5 runtime.
+Making it in unity would be easier since
+You would have a neat and more easily
+readable platform for making the game.
